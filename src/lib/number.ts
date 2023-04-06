@@ -23,6 +23,8 @@ export const double = (value: number) => {
   return value * 2;
 };
 
+export const triple = (n: number) => n * 3;
+
 /**
  * Raise the value of the first parameter to the power of the second using the
  * es7 exponentiation operator (`**`).

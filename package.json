@@ -1,6 +1,6 @@
 {
   "name": "@bb_skovkortet/id-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library implementing identity function",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
