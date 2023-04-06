@@ -7,7 +7,7 @@
     ];
 
     shellHook = ''
-        export NPM_TOKEN="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"
+        export NPM_TOKEN="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"
         echo Welcome to api types shell
     '';
 }
