@@ -24,6 +24,7 @@ export const double = (value: number) => {
 };
 
 export const triple = (n: number) => n * 3;
+export const sixtuple = (n: number) => double(triple(n));
 
 /**
  * Raise the value of the first parameter to the power of the second using the
