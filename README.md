@@ -1,2 +1,3 @@
 # id-lib
-npm library implementing identity function
+
+library implementing identity function
